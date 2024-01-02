@@ -1,0 +1,9 @@
+torch==1.8.0
+transformers==4.25.1
+protobuf==3.20.3
+tensorboardx==2.6
+lxml==4.9.2
+beautifulsoup4==4.11.2
+bs4==0.0.1
+stanza==1.4.2
+ipdb==0.13.11
