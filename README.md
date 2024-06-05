@@ -1,5 +1,5 @@
 # KeyEE: Enhancing Low-resource Generative Event Extraction with Auxiliary Keyword Sub-Prompt
-Official repository for paper "KeyEE: Enhancing Low-resource Generative Event Extraction with Auxiliary Keyword Sub-Prompt".
+Code repository for paper "KeyEE: Enhancing Low-resource Generative Event Extraction with Auxiliary Keyword Sub-Prompt".
 
 Our code is mainly based on [DEGREE](https://github.com/PlusLabNLP/DEGREE). We deeply thank the contribution from the authors of the paper.
 
@@ -92,7 +92,19 @@ python keyee/eval.py \
 
 ## Citation
 
-If you find that the code is useful in your research, please consider citing our paper. (Accepted by BDMA but not yet published)
+If you find that the code is useful in your research, please consider citing our paper.
+
+    @ARTICLE{BDMA2024_KeyEE,
+        author  = {Duan, Junwen and Liao, Xincheng and An, Ying and Wang, Jianxin},
+        journal = {Big Data Mining and Analytics}, 
+        title   = {KeyEE: Enhancing Low-Resource Generative Event Extraction with Auxiliary Keyword Sub-Prompt}, 
+        year    = {2024},
+        volume  = {7},
+        number  = {2},
+        pages   = {547-560},,
+        doi     = {10.26599/BDMA.2023.9020036}
+    }
+
 
 ## Contact
 
